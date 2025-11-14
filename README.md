@@ -1,7 +1,8 @@
 # 👋 Hi there, I'm Shashank AV
 
 🎓 **Python Full Stack Developer | Machine Learning Enthusiast**  
-🌱 Currently upskilling in **Full Stack Development** at *Pentagon Space, Bangalore*
+💻 Work as a **Fulltime Software Developer** at *QSG Technologies, Bangalore*
+🌱 Also,Upskilling in **Full Stack Development** at *Pentagon Space, Bangalore*
 
 ---
 
