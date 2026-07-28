@@ -181,31 +181,15 @@ Open to collaborating on **Full Stack** or **Machine Learning** projects that so
 </tr>
 </table>
 
-<!-- GitHub Stats with Custom Theme -->
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30"> Performance Metrics
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shashankav01&theme=radical" alt="Profile Details" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shashankav01&theme=radical" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shashankav01&theme=radical" alt="Most Commit Language" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shashankav01&theme=radical" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shashankav01&theme=radical&utcOffset=5.5" alt="Productive Time" />
-</div>
 
 <!-- Snake Animation -->
 ## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shashankav01/shashankav01/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shashankav01/shashankav01/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shashankav01/shashankav01/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RashmiGuddappanavar/RashmiGuddappanavar/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RashmiGuddappanavar/RashmiGuddappanavar/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RashmiGuddappanavar/RashmiGuddappanavar/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
